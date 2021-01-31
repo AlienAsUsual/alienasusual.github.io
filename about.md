@@ -8,7 +8,7 @@ I'm studying data science and take classes on Coursera, and other online educati
 
 ### More Information
 
-I studied History in school and am particularly interested in research and methodologies with focus on sustainable energy, animals, the environment and improving the human condition.
+Historian with an interest in research methodologies, visualization, sustainable energy, animals, and improving the human condition.
 
 ### Contact me
 
