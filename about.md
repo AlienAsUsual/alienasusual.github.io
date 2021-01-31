@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm studying data science online and take classes on Coursera, and other online education providers.
+I'm studying data science and take classes on Coursera, and other online education providers.
 
 ### More Information
 
