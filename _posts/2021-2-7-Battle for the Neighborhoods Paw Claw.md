@@ -1,5 +1,3 @@
-# Battle for the Neighborhoods: Paw & Claw
-
 Student: DL, Coursera
 IBM Data Science Capstone
 February 7, 2021
