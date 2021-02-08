@@ -7,7 +7,7 @@ February 7, 2021
 ## Background
 Pet services are increasing in demand in large metropolitan cities as pet ownership increases overall nationwide.  The highest percentage of pet owners live in houses at 65.8%, but an impressive 43.1% live in apartments and condominiums, according to the 2016 study AVMA Pet Ownership and Demographics 2017-2018 Edition, published by the American Veterinary Medical Association.
 
-![Image](_posts/pets-residence.png)
+![Image](/pets-residence.png)
 [Source](https://www.avma.org/) free download with guest registration
 
 Since apartments have limited yard areas, owners are dependent on walking their dogs themselves, or hiring a pet sitter, i.e. dog walker, to care for their pets during their working hours.  I created a fictional client, Paw & Claw, who is looking to expand their pet services into the city of Portland, OR, to explore a scenario involving finding a new business location.
@@ -51,14 +51,14 @@ It’s interesting there are not many pet related venues in the area, which on t
 
 ### Map of Apartments, Pet related services and goods, Grocery Stores and Trails
 
-![Image](_posts/map1.PNG)
+![Image](/map1.PNG)
 Figure 1 Venues map showing Apartments (magenta), Pet stores (blue), Grocery Stores (green), Trails (brown)
 
 Next I looked at Travel search query, to find Travel related agencies and services.  I was surprised to find 8 travel venues within a 1-mile radius of downtown center.  This certainly seems like a dense amount of travel agencies for a small radius.  I estimate that the university students and staff must travel extensively, and Portland is known to be a very international city.
 
 ### Map of Travel Services
 
-![Image](_posts/map2.PNG)
+![Image](/map2.PNG)
 Figure 2 Travel agencies venues and related services
 
 ## Results and Discussion
