@@ -8,6 +8,7 @@ February 7, 2021
 Pet services are increasing in demand in large metropolitan cities as pet ownership increases overall nationwide.  The highest percentage of pet owners live in houses at 65.8%, but an impressive 43.1% live in apartments and condominiums, according to the 2016 study AVMA Pet Ownership and Demographics 2017-2018 Edition, published by the American Veterinary Medical Association.
 
 ![Image](https://github.com/AlienAsUsual/alienasusual.github.io/blob/master/_posts/pets-residence.png?raw=true)
+
 [Source](https://www.avma.org/) free download with guest registration
 
 Since apartments have limited yard areas, owners are dependent on walking their dogs themselves, or hiring a pet sitter, i.e. dog walker, to care for their pets during their working hours.  I created a fictional client, Paw & Claw, who is looking to expand their pet services into the city of Portland, OR, to explore a scenario involving finding a new business location.
