@@ -1,12 +1,10 @@
----
-layout: post
-title: Battle for the Neighborhoods: Paw & Claw
----
+# Battle for the Neighborhoods: Paw & Claw
+
 Student: DL, Coursera
 IBM Data Science Capstone
 February 7, 2021
 
-# Introduction
+## Introduction
 
 ## Background
 Pet services are increasing in demand in large metropolitan cities as pet ownership increases overall nationwide.  The highest percentage of pet owners live in houses at 65.8%, but an impressive 43.1% live in apartments and condominiums, according to the 2016 study AVMA Pet Ownership and Demographics 2017-2018 Edition, published by the American Veterinary Medical Association.
