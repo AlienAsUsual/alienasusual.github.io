@@ -64,7 +64,7 @@ Figure 2 Travel agencies venues and related services
 
 ## Results and Discussion
 
-My analysis shows that there is high density of apartments and condos around in the Portland State University are to the west of the city center point likely due to a student and faculty population. Additionally there are trails and parks nearby to walk pets. There are several smaller groceries and convenience stores north of campus, with larger stores central downtown. There are travel related services present that serve the student population and nearby downtown. There are no other Pet Services potentially competing with Paw & Claw in the one mile radius, according to Foursquare's data.
+My analysis shows that there is high density of apartments and condos around in the Portland State University area to the west of the city center point likely due to a student and faculty population. Additionally there are trails and parks nearby to walk pets. There are several smaller groceries and convenience stores north of campus, with larger stores central downtown. There are travel related services present that serve the student population and nearby downtown. There are no other Pet Services potentially competing with Paw & Claw in the one mile radius, according to Foursquare's data.
 
 A challenge for Paw & Claw would be a lack of available real estate. A web search for available commercial property turned up few results.  This may also be a current reason why there are not many pet services present – the real estate may be too costly.
 
