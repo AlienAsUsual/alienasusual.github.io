@@ -1,4 +1,4 @@
-Student: DL, Coursera
+Student: Coursera
 IBM Data Science Capstone
 February 7, 2021
 
